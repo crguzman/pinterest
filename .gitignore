@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> d00552112ddd09386131fed175ff606078d0208e
 *.rbc
 *.sassc
 .sass-cache
@@ -17,4 +20,8 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 .project
+<<<<<<< HEAD
 config/initializers/secret_token.rb
+=======
+config/initializers/secret_token.rb
+>>>>>>> d00552112ddd09386131fed175ff606078d0208e
