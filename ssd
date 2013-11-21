@@ -1,0 +1,21 @@
+[1mdiff --git a/app/views/pages/index.html.erb b/app/views/pages/index.html.erb[m
+[1mindex 9f27cfd..2e273b8 100644[m
+[1m--- a/app/views/pages/index.html.erb[m
+[1m+++ b/app/views/pages/index.html.erb[m
+[36m@@ -5,14 +5,14 @@[m
+ 	</div>[m
+ <div class="container">[m
+ 	<div class="row">[m
+[31m-			  <div class="col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod[m
+[32m+[m			[32m  <div class="col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod[m[41m[m
+ 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,[m
+ 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo[m
+ 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse[m
+ 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non[m
+ 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[m
+ 			</div>[m
+[31m-			<div class="col-md-6"> [m
+[32m+[m			[32m<div class="col-md-8">[m[41m [m
+ 			   <img src="/assets/barco.jpg" class="img-circle">[m
+ 			</div>[m
+ 	</div>[m
