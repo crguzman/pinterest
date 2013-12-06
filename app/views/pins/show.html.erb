@@ -10,7 +10,7 @@
 
 		<p>
 		  <strong>Photo:</strong>
-		  <%= image_tag(@pin.photo) %>
+		  <%=  image_tag(@pin.photo, :class => 'img-responsive') %>
 		</p>
 
 		<%= link_to 'Edit', edit_pin_path(@pin) %> |
